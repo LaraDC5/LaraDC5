@@ -14,7 +14,7 @@ I firmly believe in the importance of aesthetics and its application in web deve
 
 - Frontend » React, Redux, Styled-Component, CSS Modules.
 - Backend » NodeJS, ExpressJS, Sequelize
-- Database » MySQL/Workbench, PostgreSQL.
+- Database » PostgreSQL.
 - Version control » Git, GitHub.
 - Design » Material UI, UI/UX Developer, Figma.
 
