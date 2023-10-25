@@ -1,9 +1,9 @@
-# Lara De Cillis - Full Stack Developer
+# Lara De Cillis - Full Stack Developer 💻
 
 Currently, I am training as a Full Stack developer at Henry, but my primary interest is in Frontend development. My journey in programming began in mid-2022, and since then, I haven't stopped. 
 
 
-## About Me
+## About Me 🌸
 
 I consider myself a very creative person. A significant part of that I owe to my photography studies, where I explored visual storytelling, color theory, composition, and, consequently, my creativity. This education gave me a unique perspective, allowing me to combine my recent technical skills with artistic sensibility to design websites that not only function well but are also visually pleasing.
 
@@ -18,7 +18,7 @@ I firmly believe in the importance of aesthetics and its application in web deve
 - Version control » Git, GitHub.
 - Design » Material UI, UI/UX Developer, Figma.
 
-## Contact
+## Contact Me
 
 I'm in search of an environment that allows me to learn and grow as a developer. My contact information is available for any inquiries!
 
