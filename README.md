@@ -18,7 +18,7 @@ I firmly believe in the importance of aesthetics and its application in web deve
 - Version control » Git, GitHub.
 - Design » Material UI, UI/UX Developer, Figma.
 
-## Contact Me
+## ✉️ Contact Me
 
 I'm in search of an environment that allows me to learn and grow as a developer. My contact information is available for any inquiries!
 
