@@ -22,9 +22,9 @@ I firmly believe in the importance of aesthetics and its application in web deve
 
 I'm in search of an environment that allows me to learn and grow as a developer. My contact information is available for any inquiries!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="20">**laradecillis@hotmail.com**<a href="mailto:laradecillis@hotmail.com" style="text-decoration: none;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="20">  **laradecillis@hotmail.com**<a href="mailto:laradecillis@hotmail.com" style="text-decoration: none;"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20">**Lara María De Cillis** <a href="https://www.linkedin.com/in/laradecillis" style="text-decoration: none;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20">  **Lara María De Cillis**<a href="https://www.linkedin.com/in/laradecillis" style="text-decoration: none;"/>
 
 
 
