@@ -22,9 +22,9 @@ I firmly believe in the importance of aesthetics and its application in web deve
 
 I'm in search of an environment that allows me to learn and grow as a developer. My contact information is available for any inquiries!
 
-- **Email:** <a href="mailto:laradecillis@hotmail.com" style="text-decoration: none;">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="25" height="auto" style="vertical-align: middle;"></a>
+**Email:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="25" height="auto" style="vertical-align: middle;"><a href="mailto:laradecillis@hotmail.com" style="text-decoration: none;">  </a>
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/laradecillis" style="text-decoration: none;">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="auto" height="25" style="vertical-align: middle;"></a>
+**LinkedIn:** <a href="https://www.linkedin.com/in/laradecillis" style="text-decoration: none;">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="auto" height="25" style="vertical-align: middle;"></a>
 
 
 
