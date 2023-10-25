@@ -20,8 +20,7 @@ I firmly believe in the importance of aesthetics and its application in web deve
 
 ## Contact
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)
-[LinkedIn - Lara María De Cillis](https://www.linkedin.com/in/laradecillis/)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png)[LinkedIn - Lara María De Cillis](https://www.linkedin.com/in/laradecillis/)
 
 Email: laradecillis@hotmail.com
 
