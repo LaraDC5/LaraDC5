@@ -12,7 +12,7 @@ I firmly believe in the importance of aesthetics and its application in web deve
 
 ## ✨ Tools I Use
 
-- Frontend » React, Redux, Styled-Component, CSS Modules.
+- Frontend » React, Redux, Styled-Component, CSS Modules, Tailwind CSS.
 - Backend » NodeJS, ExpressJS, Sequelize
 - Database » PostgreSQL.
 - Version control » Git, GitHub.
