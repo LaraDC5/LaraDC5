@@ -21,10 +21,10 @@ I firmly believe in the importance of aesthetics and its application in web deve
 ## Contact
 
 <p align="center">
-    <a href="mailto:laradecillis@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="100" height="auto"></a>
-    <a href="https://www.linkedin.com/in/laradecillis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="auto"></a>
+    <a href="mailto:laradecillis@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="100" height="auto">Email:</a>
+    <a href="https://www.linkedin.com/in/laradecillis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="auto">LinkedIn:</a>
 </p>
-Email: laradecillis@hotmail.com
+
 
 I'm in search of an environment that allows me to learn and grow as a developer. My contact information is available for any inquiries!
 
