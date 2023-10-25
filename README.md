@@ -21,8 +21,8 @@ I firmly believe in the importance of aesthetics and its application in web deve
 ## Contact
 
 <p align="center">
-    Email:<a href="mailto:laradecillis@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="100" height="auto"></a>
-    LinkedIn:<a href="https://www.linkedin.com/in/laradecillis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="auto"></a>
+    Email:<h1 href="mailto:laradecillis@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/1081px-Microsoft_Outlook_2013-2019_logo.svg.png" alt="Email" width="50" height="auto"></h1>
+    LinkedIn:<h2 href="https://www.linkedin.com/in/laradecillis/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="auto"></h2>
 </p>
 
 
